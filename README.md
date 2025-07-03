@@ -30,7 +30,6 @@ A comprehensive business intelligence platform built with **Node.js + Express** 
 - **Express.js**: Web framework
 - **Express Validator**: Input validation and sanitization
 - **CORS**: Cross-origin resource sharing
-- **Helmet**: Security middleware
 - **Rate Limiting**: API protection
 
 ### Frontend (React + Tailwind CSS)
@@ -111,8 +110,6 @@ The system automatically detects business industries based on keywords in the bu
 - Input validation and sanitization
 - Rate limiting (100 requests per 15 minutes)
 - CORS protection
-- Helmet security headers
-- XSS protection
 
 ## 🌟 Demo
 
