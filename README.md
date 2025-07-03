@@ -51,10 +51,15 @@ A comprehensive business intelligence platform built with **Node.js + Express** 
 │
 ├── frontend/               # React + Tailwind frontend
 │   ├── src/
+|   |   ├── context/
+|   |         ├── BusinessContext.js  #Contains context
+│   │   ├── Index.css
 │   │   ├── App.js         # Main React component
 │   │   ├── App.css        # Custom styles and animations
-│   │   └── index.js       # React entry point
-│   ├── public/            # Static assets
+│   │   └── index.js
+|           # React entry point
+│   ├── public/          # Static assets
+|   |── .env
 │   ├── package.json       # React dependencies
 │   ├── tailwind.config.js # Tailwind configuration
 │   └── postcss.config.js  # PostCSS configuration
