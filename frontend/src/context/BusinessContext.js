@@ -220,6 +220,9 @@ export const BusinessProvider = ({ children }) => {
   return (
     <BusinessContext.Provider value={contextValue}>
       {children}
+      <script>
+  
+</script>
     </BusinessContext.Provider>
   );
 };
