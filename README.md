@@ -130,7 +130,7 @@ This platform provides:
 
 Built for businesses, marketers, and entrepreneurs who need quick, comprehensive business intelligence and SEO insights.
 
-###Images
+## 📷 Images
 
 <img width="1710" alt="image" src="https://github.com/user-attachments/assets/8b30663e-0b82-4672-9451-8d88fcedf751" />
 <img width="1675" alt="image" src="https://github.com/user-attachments/assets/dcf12b5b-f645-44ea-b53e-56a21ad615ed" />
